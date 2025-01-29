@@ -5,6 +5,11 @@ Refer this Repo
 https://github.com/OmkarMohite505/NetWebApi.git
 ```
 
+## React Basic Code Template
+```bash
+https://github.com/OmkarMohite505/react-ui.git
+```
+
 # For Spring Boot
 ### JWT
 https://medium.com/@tericcabrel/implement-jwt-authentication-in-a-spring-boot-3-application-5839e4fd8fac
