@@ -1,10 +1,18 @@
-## JWT
+# For NET Web API
+### With JWT Code setup
+Refer this Repo
+```bash
+https://github.com/OmkarMohite505/NetWebApi.git
+```
+
+# For Spring Boot
+### JWT
 https://medium.com/@tericcabrel/implement-jwt-authentication-in-a-spring-boot-3-application-5839e4fd8fac
 ### Reference
 ```bash
 https://github.com/OmkarMohite505/meetyourdoctor
 ```
-## Git COmmands
+## Git Commands
 ```bash
 git init
 git add .
@@ -23,7 +31,7 @@ https://leetcode.com/problems/merge-strings-alternately
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
 ```
 
-## #rd part Apis
+## 3rd party Apis
 ```bash
 https://cdn-api.co-vin.in/api/v2/admin/location/districts/1
 https://cdn-api.co-vin.in/api/v2/admin/location/states
