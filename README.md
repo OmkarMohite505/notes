@@ -26,3 +26,5 @@ SQL -
 https://github.com/OmkarMohite505/meetyourdoctor
 
 https://prepinsta.com/java-program/reverse-a-given-number-using-java/
+
+Own written notes - https://drive.google.com/drive/folders/1MEqSlOabqi0eB5ZNrdgsIMxQIH8b19MD?usp=sharing
