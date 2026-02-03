@@ -1,44 +1,28 @@
-# For NET Web API
-### With JWT Code setup
-Refer this Repo
-```bash
-https://github.com/OmkarMohite505/NetWebApi.git
-```
+Extension Required in VS Code editor to run Java code
+1. Test Runner for Java
+2. Language Support for Java(TM) b
 
-## React Basic Code Template
-```bash
-https://github.com/OmkarMohite505/react-ui.git
-```
+SOLID Principle
+Coding Questions - 
+1. Swap two var without using 3 var
+2. FInd unique elem in array
+3. String str = "abcdgfhxyzpqrst" abcd - 4, xyz - 3, pqrst - 5
+4. Sum, Max Min from array elem Same problem Java Stream API.
+5. Find max elem using ternary operator, int a, b, c = 0;
+6  String str = iacsdmarch - Find No of char occurrence. - i - 1, a - 2.
+7. String str = I am from Pune; O/p = > Pune from am I; convert to lower case first part of the string
+8. star print pattern ex
 
-# For Spring Boot
-### JWT
-https://medium.com/@tericcabrel/implement-jwt-authentication-in-a-spring-boot-3-application-5839e4fd8fac
-### Reference
-```bash
+https://github1s.com/OmkarMohite505/java_code_interview
+
+SQL - 
+1. Joins - Inner, Left and Right Join
+2. Subqueries, Window Functions
+3. DDL, DML, DQl, TCL
+4. Temp tables, Indexing, Triggers
+5. Function vs Stored Procedure
+6. ACID, Normalization.
+
 https://github.com/OmkarMohite505/meetyourdoctor
-```
-## Git Commands
-```bash
-git init
-git add .
-git commit -m "project created"
-git remote add origin https://github.com/OmkarMohite505/notes.git
-git branch -M main
-git push -u origin main
-```
 
-## Coding Practice
-```bash
-https://leetcode.com/studyplan/leetcode-75/
-
-https://leetcode.com/problems/valid-anagram/description/
-https://leetcode.com/problems/merge-strings-alternately
-https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
-```
-
-## 3rd party Apis
-```bash
-https://cdn-api.co-vin.in/api/v2/admin/location/districts/1
-https://cdn-api.co-vin.in/api/v2/admin/location/states
-https://api.openweathermap.org/data/2.5/weather?lat=73.75&lon=18.64&appid=ccfcadc9a73d82ec42c90a6ea4829810
-```
+https://prepinsta.com/java-program/reverse-a-given-number-using-java/
